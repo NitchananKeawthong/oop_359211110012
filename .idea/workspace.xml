@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7b67bcc-d4ea-4b71-9044-12008e5f12aa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../oop_359211110012/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../oop_359211110012/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f7b67bcc-d4ea-4b71-9044-12008e5f12aa" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../oop_359211110012/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -291,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511168554033</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Testing input again">
+      <created>1511766866531</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1511766866531</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -340,7 +345,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="InputData" />
-    <option name="LAST_COMMIT_MESSAGE" value="InputData" />
+    <MESSAGE value="Testing input again" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing input again" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
