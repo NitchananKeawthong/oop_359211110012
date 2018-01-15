@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7b67bcc-d4ea-4b71-9044-12008e5f12aa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab3/TestNestedLoop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab3/TestWhileLoop.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestNestedLoop.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ooplab3/TestNestedLoop.java">
+      <file leaf-file-name="TestWhileLoop.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooplab3/TestWhileLoop.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="27" />
+              <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -61,6 +61,7 @@
         <option value="$PROJECT_DIR$/src/ooplab4/OverloadMethods.java" />
         <option value="$PROJECT_DIR$/src/ooplab4/TastMethods.java" />
         <option value="$PROJECT_DIR$/src/ooplab3/TestNestedLoop.java" />
+        <option value="$PROJECT_DIR$/src/ooplab3/TestWhileLoop.java" />
       </list>
     </option>
   </component>
@@ -154,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestNestedLoop">
+  <component name="RunManager" selected="Application.TestWhileLoop">
     <configuration name="OverloadMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -201,6 +202,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="ooplab3.TestNestedLoop" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="oop_359211110012" />
+      <envs />
+    </configuration>
+    <configuration name="TestWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ooplab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ooplab3.TestWhileLoop" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -293,25 +313,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="myStrBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ooplab6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ooplab6.myStrBuffer" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="oop_359211110012" />
-      <envs />
-    </configuration>
     <configuration name="myStrToken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -332,19 +333,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.myStrBuffer" />
-      <item index="1" class="java.lang.String" itemvalue="Application.myStrToken" />
-      <item index="2" class="java.lang.String" itemvalue="Application.OverloadMethods" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TastMethods" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
+      <item index="0" class="java.lang.String" itemvalue="Application.myStrToken" />
+      <item index="1" class="java.lang.String" itemvalue="Application.OverloadMethods" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TastMethods" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestWhileLoop" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TastMethods" />
-        <item index="2" class="java.lang.String" itemvalue="Application.OverloadMethods" />
-        <item index="3" class="java.lang.String" itemvalue="Application.myStrToken" />
-        <item index="4" class="java.lang.String" itemvalue="Application.myStrBuffer" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestWhileLoop" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TastMethods" />
+        <item index="3" class="java.lang.String" itemvalue="Application.OverloadMethods" />
+        <item index="4" class="java.lang.String" itemvalue="Application.myStrToken" />
       </list>
     </recent_temporary>
   </component>
@@ -464,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516002705885</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="TestNestedLoop">
+      <created>1516002898513</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1516002898513</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -525,7 +533,8 @@
     <MESSAGE value="myStrBuffer" />
     <MESSAGE value="OverloadMethods" />
     <MESSAGE value="TastMethods" />
-    <option name="LAST_COMMIT_MESSAGE" value="TastMethods" />
+    <MESSAGE value="TestNestedLoop" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestNestedLoop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -692,6 +701,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab3/TestWhileLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
           <folding />
         </state>
       </provider>
