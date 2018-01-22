@@ -13,18 +13,18 @@ public class m3_2 {
     public static void main(String[] args) throws IOException {
         String id = getID();
         String name = getName();
-        float pay = getSalary();
+        float salary = getSalary();
         float ot = getOverTime();
-        showDataInfo(id, name, pay, ot);
+        showDataInfo(id, name, salary, ot);
     }//main
 
-    private static void showDataInfo(String id, String name, float pay, float ot) {
+    private static void showDataInfo(String id, String name, float salary, float ot) {
         System.out.println("--------------------------");
         System.out.println("ID : " + id);
         System.out.println("Name : " + name);
-        System.out.println("Salary : " + pay + " Baht");
+        System.out.println("Salary : " + salary + " Baht");
         System.out.println("OverTime : " + ot + " Baht");
-        System.out.println("Taxable :" + incomeAndTaxes(pay, ot)+" %");
+        System.out.println("Taxable :" + incomeAndTaxes(salary, ot)+" %");
     }//showDataInfo
 
     private static String getID() throws IOException {
