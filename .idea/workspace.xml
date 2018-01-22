@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f7b67bcc-d4ea-4b71-9044-12008e5f12aa" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab7/StudentApp.java" afterPath="$PROJECT_DIR$/src/ooplab7/StudentApp.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab7/Student.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
@@ -40,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentApp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StudentApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab7/StudentApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            <state relative-caret-position="54">
+              <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -515,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516604438868</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Student">
+      <created>1516605895778</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1516605895778</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView">
@@ -579,7 +585,8 @@
     <MESSAGE value="TestNestedLoop" />
     <MESSAGE value="m3_1" />
     <MESSAGE value="m3_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="m3_2" />
+    <MESSAGE value="Student" />
+    <option name="LAST_COMMIT_MESSAGE" value="Student" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -777,14 +784,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab7/StudentApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab7/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -805,6 +804,14 @@
             <element signature="e#1011#1012#0" expanded="true" />
             <element signature="e#1041#1042#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab7/StudentApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
