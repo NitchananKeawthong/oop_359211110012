@@ -6,6 +6,7 @@ package ooplab7;
 // 3.major
 // 4.group
 public class Student {
+    private String faculty="Managem";
     private String id;
     private String name;
     private String major;
