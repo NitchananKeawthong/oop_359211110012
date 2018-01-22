@@ -12,7 +12,7 @@ public class mySuperCar {
             System.out.println("Please enter Supercar info : ");
             System.out.print("Enter CarBrand : ");
             s.setCarBrand(scanner.nextLine());
-            System.out.print("Enter CarColor : ");
+            System.out.print("Enter Carcolor : ");
             s.setCarColor(scanner.nextLine());
             System.out.print("Enter CarEnginesize : ");
             s.setCarEnginesize(scanner.nextLine());

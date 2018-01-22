@@ -3,22 +3,21 @@ public class SuperCar {
     public void getSupercarInfo() {
         System.out.println("Student info : ");
         System.out.println("CarBrand : "+ this.CarBrand);
-        System.out.println("CarColor : "+ this.CarColor);
+        System.out.println("Carcolor : "+ this.Carcolor);
         System.out.println("CarEnginesize : "+ this.CarEnginesize);
         System.out.println("CarMaxspeed : "+ this.CarMaxspeed);
         System.out.println("CountryofOrigin : "+ this.CountryofOrigin);
     }
     private String CarBrand;
-    private String CarColor;
+    private String Carcolor;
     private String CarEnginesize;
     private String CarMaxspeed;
     private String CountryofOrigin;
 
     public SuperCar(){}
-    public SuperCar (String CarBrand,String CarColor,String CarEnginesize,String CarMaxspeed,
-                     String CountryofOrigin){
+    public SuperCar (String CarBrand,String Carcolor,String CarEnginesize,String CarMaxspeed,String CountryofOrigin){
         this.CarBrand = CarBrand;
-        this.CarColor = CarColor;
+        this.Carcolor = Carcolor;
         this.CarEnginesize = CarEnginesize;
         this.CarMaxspeed = CarMaxspeed;
         this.CountryofOrigin = CountryofOrigin;
@@ -31,12 +30,12 @@ public class SuperCar {
         return  this.CarBrand;
     }//getCarBrand
 
-    public void setCarColor(String CarColor){
-        this.CarColor = CarColor;
+    public void setCarColor(String Carcolor){
+        this.Carcolor = Carcolor;
     }//setCarColor
-    public String getCarColor(){
-        return  this.CarColor;
-    }//getCarColor
+    public String getCarcolor(){
+        return  this.Carcolor;
+    }//getCarcolor
 
     public void setCarEnginesize(String CarEnginesize){
         this.CarEnginesize = CarEnginesize;
