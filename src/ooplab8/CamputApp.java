@@ -9,9 +9,5 @@ public class CampusApp {
         Trang c2 = new Trang();
         c2.getCampusName();
         c2.getArea();
-
-
-
-    }//main
-
-}//Campus
+    }
+}

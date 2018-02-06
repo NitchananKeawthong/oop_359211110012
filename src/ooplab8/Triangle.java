@@ -1,4 +1,4 @@
-package ooplab8;
+ackage ooplab8;
 
 public class Triangle extends Shape {
     private int high;
@@ -7,7 +7,7 @@ public class Triangle extends Shape {
         return high;
     }
 
-    public void setHigh(int high) {
+    public void setHight(int high) {
         this.high = high;
     }
 
@@ -15,7 +15,6 @@ public class Triangle extends Shape {
         super(width, length);
         this.high=high;
     }
-
     @Override
     public double getArea() {
         return super.getWidth()*high*0.5;

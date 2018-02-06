@@ -1,5 +1,7 @@
 package ooplab8;
 
+import ooplab8.Campus;
+
 public class Trang implements Campus {
     @Override
     public void getCampusName() {
@@ -8,6 +10,7 @@ public class Trang implements Campus {
 
     @Override
     public void getArea() {
-        System.out.println("Sikow Trang.");
+        System.out.println("Sikow Trang");
+
     }
 }
