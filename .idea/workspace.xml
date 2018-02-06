@@ -14,15 +14,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ooplab9/Person.java">
+      <file leaf-file-name="PersonApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooplab9/PersonApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
-              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="19" />
-              <folding>
-                <element signature="e#1129#1130#0" expanded="true" />
-                <element signature="e#1159#1160#0" expanded="true" />
-              </folding>
+              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -665,7 +662,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517934543096</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Person">
+      <created>1517934567597</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1517934567597</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TodoView">
@@ -713,7 +717,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TastMethods" />
     <MESSAGE value="TestNestedLoop" />
     <MESSAGE value="m3_1" />
     <MESSAGE value="m3_2" />
@@ -738,7 +741,8 @@
     <MESSAGE value="Cow" />
     <MESSAGE value="Engine" />
     <MESSAGE value="Job" />
-    <option name="LAST_COMMIT_MESSAGE" value="Job" />
+    <MESSAGE value="Person" />
+    <option name="LAST_COMMIT_MESSAGE" value="Person" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1051,14 +1055,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab9/PersonApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab8/Saiyai.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -1158,6 +1154,14 @@
             <element signature="e#1129#1130#0" expanded="true" />
             <element signature="e#1159#1160#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab9/PersonApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
